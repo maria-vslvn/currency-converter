@@ -1,0 +1,3 @@
+export const INITIAL_AMOUNT = '1';
+export const BASE_DEFAULT_CURRENCY_CODE = 'USD';
+export const TARGET_DEFAULT_CURRENCY_CODE = 'EUR';

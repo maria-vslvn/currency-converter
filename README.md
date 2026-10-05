@@ -1,4 +1,3 @@
-# React + TypeScript + Vite
 ## Tailwind CSS, Vitest, React Testing Library, ESLint, Prettier
 
 # Currency Converter
